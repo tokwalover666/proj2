@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1496ec5eef8dea14fbdf6d13b4a3d054
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - PP Eiko
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d1116a78f6d25a94b9da6b231f5079da, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
